@@ -1,4 +1,4 @@
-# AdsBannerTemplate
+# AdMobAdsBanner
 
 This is a minimal application, only featuring an activity. It is meant to be cloned to study AdMob SDK performance.
 
