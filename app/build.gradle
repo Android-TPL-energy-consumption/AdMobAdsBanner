@@ -6,7 +6,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "tpl.ads.banner.template"
+        applicationId "tpl.ads.banner.admob"
         minSdk 29
         targetSdk 31
         versionCode 1

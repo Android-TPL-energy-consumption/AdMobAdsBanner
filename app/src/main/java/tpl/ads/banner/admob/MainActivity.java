@@ -1,4 +1,4 @@
-package tpl.ads.banner.template;
+package tpl.ads.banner.admob;
 
 import androidx.appcompat.app.AppCompatActivity;
 
