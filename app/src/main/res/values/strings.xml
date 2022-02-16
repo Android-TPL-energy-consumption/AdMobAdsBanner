@@ -1,2 +1,5 @@
 <resources>
+    <string name="app_name">AdMobAdsBanner</string>
+    <string name="ad_unit_id">YOUR_ADD_UNIT_VALUE_HERE</string>
+    <string name="app_id">YOUR_APP_VALUE_HERE</string>
 </resources>
