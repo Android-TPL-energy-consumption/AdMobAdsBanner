@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PACKAGE="tpl.ads.banner.template"
-ACTIVITY="tpl.ads.banner.template.MainActivity"
+PACKAGE="tpl.ads.banner.admob"
+ACTIVITY="tpl.ads.banner.admob.MainActivity"
 
 TIME_IN_SECONDS_TO_LOAD_ADS=60
 
